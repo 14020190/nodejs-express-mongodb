@@ -27,7 +27,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="wrap">
 			<!---start-logo--->
 			<div class="logo">
-				<a href="#">portfolio</a>
+				<a href="#">naga demon</a>
 			</div>
 			<!---End-logo--->
 			<!---start-top-nav--->
@@ -46,41 +46,37 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!---End-wrap--->
 	<div class="content">
 		<div class="grid1" id="me">
-			<a href="#"><img src="images/g2.png" title="name" /></a>
-			<h3>Hi,I'm lipsum</h3>
-			<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters<a href="#">Twitter</a>. </p>
+			<a href="#"><img src="images/eva.jpg" title="name" /></a>
+			<h3>Hi,I'm Huy Hoàng</h3>
 		</div>
 		<div class="grid2" id="skills">
-			<h3>Skill set</h3>
-			<p>be distracted by the readable content of a page when looking at its layout.</p>
+			<h3>Skill</h3>
 			<ul>
 				<li>
 					<img src="images/s2.png" title="Artdirector" />
-					<a href="#">Art Director</a>
+					<a href="#">C++</a>
 				</li>
 				<li>
 					<img src="images/s6.png" title="Artdirector" />
-					<a href="#">Art Making</a>
+					<a href="#">Java</a>
 				</li>
 				<li>
 					<img src="images/s3.png" title="Artdirector" />
-					<a href="#">Photo Editor</a>
+					<a href="#">AutoIT</a>
 				</li>
 				<li>
 					<img src="images/g6.png" title="Artdirector" />
-					<a href="#">graphic design</a>
+					<a href="#">CE</a>
 				</li>
 			</ul>
 		</div>
 		<div class="grid3">
 			<div class="grid3-header" id="works">
 				<h3>Project Name</h3>
-				<p>reader will be distracted by the readable content of a page when looking at its layout.</p>
 			</div>
 			<div class="grid3-content">
 				<div class="grid3-left">
 					<h3>Project</h3>
-					 <p>Project-Name Lorem Ipsum is simply dummy text of the printing and typesetting industry.when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 					<ul>
 						<li><a href="#"><img src="images/icon1.png" titl="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/icon2.png" titl="Icon-Name" /></a></li>
@@ -96,8 +92,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		</div>	
 		<div class="twiiter-box">
-			<a href="#"><img src="images/twitt.png" title="twitter-count" /></a>
-			<p>be distracted by the readable content of a page when <a href="#">#looking at its layout.</a> Via <a href="#">@readabled</a></p>
+			<p>abc</p>
 		</div>
 		<div class="contact" id="contact">
 			<h3>Feed Back</h3>
