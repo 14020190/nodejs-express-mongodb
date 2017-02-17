@@ -46,8 +46,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!---End-wrap--->
 	<div class="content">
 		<div class="grid1" id="me">
-			<a href="#"><img src="images/eva.jpg" title="name" /></a>
-			<h3>Hi,I'm Huy Hoàng</h3>
+			<a href="#"><img src="images/background.jpg" title="name" /></a>
+			<h3>Hi, I'm Nguyễn Huy Hoàng</h3>
 		</div>
 		<div class="grid2" id="skills">
 			<h3>Skill</h3>
@@ -76,7 +76,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<div class="grid3-content">
 				<div class="grid3-left">
-					<h3>Project</h3>
+					<h3>Chuyên đề công nghệ</h3>
 					<ul>
 						<li><a href="#"><img src="images/icon1.png" titl="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/icon2.png" titl="Icon-Name" /></a></li>
@@ -86,7 +86,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<a class="button" href="#">View Project</a>
 				</div>
 				<div class="grid3-right">
-					<a href="#"><img src="images/v1.png" title="project-name" /></a>
+					<a href="#"><img src="images/eva.jpg" title="project-name" /></a>
 				</div>
 				<div class="clear"> </div>
 			</div>
@@ -96,7 +96,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 		<div class="contact" id="contact">
 			<h3>Feed Back</h3>
-			<p>Reader will be distracted by the readable content of a page when looking at its layout.</p>
 			<form>
 			<input type="text" class="textbox" value="Name:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
 			<input type="text" class="textbox" value="Email:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
@@ -106,7 +105,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 		<div class="catch-me">
 			<h3>SAY HELLO</h3>
-			<p>Reader will be distracted by the readable content of a page when looking at its layout.Ipsum is simply dummy text of the printing and typesetting industry.when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 			<ul>
 				<li><a href="#"><img src="images/facebook.png" title="facebook" /></a></li>
 				<li><a href="#"><img src="images/rss.png" title="Rss" /></a></li>
@@ -114,7 +112,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</ul>
 		</div>
 		<div class="footer">
-			<p>Design by <a href="http://w3layouts.com/">w3layouts</a></p>
+			<p>Thank you</p>
 		</div>
 	</div>
 	</body>
