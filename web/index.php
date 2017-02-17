@@ -46,7 +46,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!---End-wrap--->
 	<div class="content">
 		<div class="grid1" id="me">
-			<a href="#"><img src="images/background.jpg" title="name" /></a>
+			<a href="#"><img src="images/car.jpg" title="name" /></a>
 			<h3>Hi, I'm Nguyễn Huy Hoàng</h3>
 		</div>
 		<div class="grid2" id="skills">
@@ -78,10 +78,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="grid3-left">
 					<h3>Chuyên đề công nghệ</h3>
 					<ul>
-						<li><a href="#"><img src="images/icon1.png" titl="Icon-Name" /></a></li>
-						<li><a href="#"><img src="images/icon2.png" titl="Icon-Name" /></a></li>
-						<li><a href="#"><img src="images/icon3.png" titl="Icon-Name" /></a></li>
-						<li><a href="#"><img src="images/icon4.png" titl="Icon-Name" /></a></li>
+						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
+						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
+						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
+						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
 					</ul>
 					<a class="button" href="#">View Project</a>
 				</div>
