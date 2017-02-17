@@ -46,7 +46,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!---End-wrap--->
 	<div class="content">
 		<div class="grid1" id="me">
-			<a href="#"><img src="images/car.jpg" title="name" /></a>
+			<a href="#"><img src="images/giphy.gif" title="name" /></a>
 			<h3>Hi, I'm Nguyễn Huy Hoàng</h3>
 		</div>
 		<div class="grid2" id="skills">
