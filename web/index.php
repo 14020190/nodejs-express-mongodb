@@ -55,19 +55,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<ul>
 				<li>
 					<img src="images/s2.png" title="Artdirector" />
-					<a href="#">C++</a>
+					<a href="#">Program</a>
 				</li>
 				<li>
 					<img src="images/s6.png" title="Artdirector" />
-					<a href="#">Java</a>
+					<a href="#">Auto</a>
 				</li>
 				<li>
 					<img src="images/s3.png" title="Artdirector" />
-					<a href="#">AutoIT</a>
+					<a href="#">Freeline skate</a>
 				</li>
 				<li>
 					<img src="images/g6.png" title="Artdirector" />
-					<a href="#">CE</a>
+					<a href="#">Basket ball</a>
 				</li>
 			</ul>
 		</div>
