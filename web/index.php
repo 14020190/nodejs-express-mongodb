@@ -46,7 +46,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!---End-wrap--->
 	<div class="content">
 		<div class="grid1" id="me">
-			<a href="#"><img src="images/giphy.gif" title="name" /></a>
+			<a href="#"><img src="images/face.gif" title="name" /></a>
 			<h3>Hi, I'm Nguyễn Huy Hoàng</h3>
 			<p>They say when you are missing someone that they are probably feeling the same, but I don't think it's possible for you to miss me as much as I'm missing you right now.</p>
 		</div>
@@ -54,19 +54,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<h3>Skill</h3>
 			<ul>
 				<li>
-					<img src="images/s2.png" title="Artdirector" />
+					<img src="images/programmer.jpg" title="Artdirector" />
 					<a href="#">Program</a>
 				</li>
 				<li>
-					<img src="images/s6.png" title="Artdirector" />
+					<img src="images/images.jpg" title="Artdirector" />
 					<a href="#">Auto</a>
 				</li>
 				<li>
-					<img src="images/s3.png" title="Artdirector" />
+					<img src="images/freeline.jpg" title="Artdirector" />
 					<a href="#">Freeline skate</a>
 				</li>
 				<li>
-					<img src="images/g6.png" title="Artdirector" />
+					<img src="images/basketball.jpg" title="Artdirector" />
 					<a href="#">Basket ball</a>
 				</li>
 			</ul>
