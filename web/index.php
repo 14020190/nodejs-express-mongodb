@@ -45,16 +45,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</div>
 		<!---End-wrap--->
 	<div class="content">
-
-		<?php
-		switch ($_GET["page"]){
-			case "techweek1": include("tech_week1.html");
-				break;
-			default: include_once("index.php");
-				break;
-		}
-		?>
-
 		<div class="grid1" id="me">
 			<a href="#"><img src="images/face.gif" title="name" /></a>
 			<h3>Hi, I'm Nguyễn Huy Hoàng</h3>
@@ -89,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="grid3-left">
 					<h3>Chuyên đề công nghệ</h3>
 					<ul>
-						<li><a href="index.php?page=techweek1"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
+						<li><a href="tech_week1.html" target="_blank"><img src="images/Places-folder-black-icon.png" titl="TechWeek1" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
