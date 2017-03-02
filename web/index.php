@@ -79,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="grid3-left">
 					<h3>Chuyên đề công nghệ</h3>
 					<ul>
-						<li><a href="tech_week1.html" target="_blank"><img src="images/Places-folder-black-icon.png" titl="TechWeek1" /></a></li>
+						<li><a href="tech_week1.html" target="_blank"><img src="images/Places-folder-black-icon.png" title="TechWeek1" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" titl="Icon-Name" /></a></li>
