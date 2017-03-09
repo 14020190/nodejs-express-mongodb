@@ -81,7 +81,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<ul>
 						<li><a href="tech_week1.html" target="_blank"><img src="images/Places-folder-black-icon.png" title="TechWeek1" /></a></li>
 						<li><a href="tech_week2.xhtml" target="_blank"><img src="images/Places-folder-black-icon.png" title="TechWeek2" /></a></li>
-						<li><a href="#"><img src="images/Places-folder-black-icon.png" title="Icon-Name" /></a></li>
+						<li><a href="https://github.com/14020190/nodejs-express-mongodb" target="_blank"><img src="images/Places-folder-black-icon.png" title="Icon-Name" /></a></li>
 						<li><a href="#"><img src="images/Places-folder-black-icon.png" title="Icon-Name" /></a></li>
 					</ul>
 					<a class="button" href="#">View Project</a>
