@@ -1,0 +1,13 @@
+//
+   Created by Huy Hoang on 3/10/2017.
+
+extends layout
+
+block content
+    h1.
+        User List
+    ul
+        each user, i in userlist
+            li
+                a(href="mailto:#{user.email}")= user.username
+
